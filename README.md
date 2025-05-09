@@ -8,7 +8,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ### Cadence EDA Suite
 - **Virtuoso Schematic Editor** (for circuit design)
 - **Spectre Simulator** (for circuit simulation)
-
+ 
 ### Process Design Kit (PDK)
 - CMOS technology library (e.g., 180nm, 45nm node)
 
